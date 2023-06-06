@@ -7,7 +7,7 @@
 </h1>
  I'm Yasemin
 
-- 🔭 I’m currently working as an Backend Developer.
+ 🔭 I’m currently working as an Backend Developer.
 
 <p align="center">
 <a href="https://www.linkedin.com/in/yasemin-eder-646302103/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="yasemin-eder" height="40" width="40" /></a>
