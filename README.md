@@ -12,10 +12,11 @@
 - 🔭 I’m currently working as an Backend Developer.
 
 
+
 <p align="center">
-<a href="https://www.linkedin.com/in/yasemin-eder-646302103/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasemin-eder" height="30" width="40" /></a>
-<a href="https://medium.com/@jasminewith" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jasminewith" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ysmneder?hr_r=1" target="_blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="@jasminewith" height="30" width="70" /></a>
+<a href="https://www.linkedin.com/in/yasemin-eder-646302103/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasemin-eder" height="40" width="40" /></a>
+<a href="https://medium.com/@jasminewith" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jasminewith" height="40" width="40" /></a>
+<a href="https://www.hackerrank.com/ysmneder?hr_r=1" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="ysmneder" height="40" width="40" /></a>
 </p>
 
  <h3 align="center">Languages and Tools:</h3>
